@@ -1,0 +1,11 @@
+Question,OpenAI,Anthropic
+"If renewable energy technologies were suddenly unavailable worldwide, how might this impact global economies, energy infrastructure, and international relations over the next decade?",,
+"If a traveler has six different cities to visit, and they can only travel from city A to city B if a direct route exists, calculate the number of possible unique itineraries, given that only three routes exist: A → B, B → C, and C → A.",,
+Prove using mathematical induction that the sum of the first n odd numbers is n^2.,,
+"Design a pseudo-algorithm to find the shortest path between two points in a grid with obstacles, and analyze its time complexity.",,
+Analyze how Shakespeare’s use of metaphor in Hamlet’s 'To be or not to be' soliloquy conveys existential anxiety. Provide textual evidence and contextual interpretation.,,
+"Translate the following English passage into Spanish, ensuring cultural nuances are preserved, then explain why certain translation choices were made: 'The early bird catches the worm, but the second mouse gets the cheese.'",,
+"What are the ethical implications of deploying AI systems in critical medical diagnostics? Consider bias, accountability, and patient autonomy in your response.",,
+"A ball is thrown vertically upward with an initial velocity of 20 m/s. Calculate its maximum height, total time of flight, and velocity just before hitting the ground, assuming no air resistance.",,
+"Write a SQL query to find the top three customers by total revenue in a sales database with tables for customers, orders, and order_details. Explain the steps involved in creating the query.",,
+"Design a RESTful API for an online bookstore that supports operations for browsing books, searching by genre or author, adding books to a cart, and making purchases. Describe the endpoints, methods, and example payloads.",,
